@@ -1,0 +1,14 @@
+## Interface: 40300
+## Title: Dreamreader
+## Author: Lanrutcon
+## Version: 1.1
+## DefaultState: Enabled
+## Notes: Quest Reporter
+
+Dreamreader.lua
+Dreamreader.xml
+database.lua
+
+# Final Notes:
+# databaseQuests.lua was created using qcQuest.lua (from "QuestCompletist" by viduus)
+# Run DreamreaderDBupdater.jar to update database.lua
